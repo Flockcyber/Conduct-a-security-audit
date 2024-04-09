@@ -36,16 +36,20 @@ Controls and compliance checklist</b>
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Step one: <br/>
+Review Botium Toys:  Scope, goals, and risk assessment report, with a focus on:
+
+The assets currently managed by the IT department
+
+The bullet points under “Additional comments” in the Risk assessment section: <br/>
 <img src="https://i.imgur.com/nR5lbrz.png"
 " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step two:  <br/>
+Consider information provided in the report using the Controls Categories document.:  <br/>
 <img src="https://i.imgur.com/Xdx7iKk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step three: <br/>
+Then, review the Controls and compliance checklist and select “yes” or “no” to answer the question in each section : <br/>
 <img src="https://i.imgur.com/XqfQsax.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -53,6 +57,6 @@ Step three: <br/>
 
 <br />
 <br />
-Final Product:  <br/>
+Final Product/Audit checklist product:  <br/>
 <img src="https://i.imgur.com/RPzFEKw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
